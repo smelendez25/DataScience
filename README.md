@@ -1,5 +1,3 @@
-# DataScience
-Repo Test for Data Science Specialization
+# Data Science Specialization
 
-Hello People!!!
-I like to run and eat pizza and sushi!!!
+This is my repository for the Data Science Specialization, in here you can find information related with homeworks and assigments, I hope this helps the community of data scientists around the globe. 
