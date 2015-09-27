@@ -1,6 +1,6 @@
 The run analysis file is created using the following logic:
 
-1- Downloads the dataset from the following URL --> https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+1- Download the dataset from the following URL --  https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 2- Unzips the file
 3- Creates results folder if it does not exist (all files are stored in this folder)
 4- Load the text file features.txt used for columns
